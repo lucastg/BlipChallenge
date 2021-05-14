@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlipChallenge", "BlipChallenge\BlipChallenge.csproj", "{7BB4C48A-20F8-4D21-9E5E-2021E840DB9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB4C48A-20F8-4D21-9E5E-2021E840DB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB4C48A-20F8-4D21-9E5E-2021E840DB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB4C48A-20F8-4D21-9E5E-2021E840DB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB4C48A-20F8-4D21-9E5E-2021E840DB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0019794-8193-4CFF-BAD1-5AB010083995}
+	EndGlobalSection
+EndGlobal
